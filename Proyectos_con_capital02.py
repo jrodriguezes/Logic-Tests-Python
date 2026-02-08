@@ -6,7 +6,6 @@
 
 # Objetivo: capital final máximo.
 
-
 def principal():
     import random as Random
 
